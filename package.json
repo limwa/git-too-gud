@@ -12,5 +12,12 @@
     "email": "me@limwa.pt",
     "url": "https://github.com/limwa"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "enquirer": "^2.3.6",
+    "simple-git": "^2.34.2",
+    "typescript": "^4.1.5"
+  }
 }
