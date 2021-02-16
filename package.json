@@ -1,0 +1,16 @@
+{
+  "name": "git-too-gud",
+  "version": "0.1.0",
+  "description": "A CLI tool to help with git-related actions.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limwa/git-too-gud"
+  },
+  "author": {
+    "name": "limwa",
+    "email": "me@limwa.pt",
+    "url": "https://github.com/limwa"
+  },
+  "license": "MIT"
+}
